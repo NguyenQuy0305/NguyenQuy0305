@@ -2,7 +2,7 @@
 - 😄 I'm Quy
 - 🔭 This is my github
 - 🌱 I am a student at University of Information Technology, Vietnam National University, Ho Chi Minh City
-- ⚡ Language: Java, HTML, CSS, JS
+- ⚡ Language: Java, HTML, CSS, JS, C#
 - 👯 Framework: Spring Boot, ASP.NET Core, ReactJS, NodeJS
 - 📫 Database: Oracle, SQL Server
 - 🔭 OOP, Data structures and algorithms
